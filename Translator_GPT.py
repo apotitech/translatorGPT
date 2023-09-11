@@ -4,7 +4,7 @@ import openai
 
 # Set the model engine and your OpenAI API key
 model_engine = "text-davinci-003"
-openai.api_key = "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" 
+openai.api_key = "sk-z012321345656p['lk;lhkuhkyukgytjtkaeHfghghASDADSF" 
 
 # Define a function to handle the translation process
 def translate_text(text, target_language):
